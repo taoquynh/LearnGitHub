@@ -52,4 +52,5 @@ func nhapDiem() -> Float{
 
 func kiemTraDiem() {
     let diem: Float = nhapDiem()
+    print(diem)
 }
